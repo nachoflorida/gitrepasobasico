@@ -4,7 +4,7 @@
 
 **2. En nuestro disco local, vamos a la carpeta donde tenemos nuestros desarrollos. En mi caso:**
    ```
-    cd C:\Users\Nacho\21-React\
+    cd C:\Users\Nacho\DIN\
    ```
 
 **3. Descargamos el que tenemos en el repositorio remoto (en GitHub) creado por el profesor, es decir, vamos a *clonar* ese repositorio:**
